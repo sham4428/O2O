@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+o2o_error_screenshot.png
+.env
